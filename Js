@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UFT-8" />
+        <title>Práticas de programação</title>
+
+        <script>
+
+            //string
+            //const nome = prompt("Por favor, digite um nome")
+
+            const n1 = 1
+            const n2 = 2
+            const aprovado = true
+            const minimo = 9
+
+            // Operadores
+
+            console.log('Operadores Aritméticos')
+            console.log(n1+n2)
+            console.log(n1-n2)
+            console.log(n1*n2)
+            console.log(n1/n2)
+            console.log(n1%n2)
+
+            console.log("Operadores Relacionais")
+            console.log(n1==n2)
+            console.log(n1!=n2)
+            console.log(n1>n2)
+            console.log(n1<n2)
+            console.log(n1>=n2)
+            console.log(n1<=n2)
+
+            console.log("Operaadores Lógicos")
+            console.log(aprovado)
+            console.log(!aprovado)
+            console.log( n2 >= 7 && n2 >= minimo)
+            console.log( n2 >= 7 || n2 >= minimo)
+
+        </script>
+    </head>
+    <body>
+
+    </body>
